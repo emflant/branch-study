@@ -6,3 +6,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/emflant/branch-study.git
 git push -u origin main
+
+testing 에서추가.
