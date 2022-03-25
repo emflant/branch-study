@@ -1,6 +1,2 @@
 오늘 작성한 글임(2022-03-24)
-testing 에서 추가
-추가333
-cnrk 444
-cnrk 555
-cnrk 666
+database=test-address
