@@ -1,2 +1,1 @@
-오늘 작성한 글임(2022-03-24)
 database=prod-address
